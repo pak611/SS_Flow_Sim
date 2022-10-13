@@ -1,0 +1,68 @@
+OLGA log-file
+
+OLGA file: C:\Users\pak611\Dropbox\Hydrates\Wax\Wax_Sim\CS1.tab
+Generated with PVTsim Nova version 4.1.73.0 at 5/11/2021 3:06:34 PM
+
+Options:
+EOS:SRK Peneloux
+Characterization method: Normal C7 + Char
+Viscosity model: CSP Visc/Thermal Cond
+Pressure/ bar
+Temperature/ °C
+
+Fluid database:
+C:\Users\pak611\Documents\Calsep\demodataV4.nfdb
+
+
+Fluid 1
+BP          BP     BP                                                            Type = Characterized
+
+Water phase:
+(none)  %water cut
+Composition Mol%
+H2O: (none) 
+NaCl: (none) 
+KCl: (none) 
+NaBr: (none) 
+CaCl2: (none) 
+HCOONa: (none) 
+HCOOK: (none) 
+KBr: (none) 
+HCOOCs: (none) 
+CaBr2: (none) 
+ZnBr2: (none) 
+
+Inhibitor:
+(none)  Mol inhibitor/mol produced water
+Composition Mol%
+H2O: (none) 
+MeOH: (none) 
+EtOH: (none) 
+PG: (none) 
+PGME: (none) 
+MEG: (none) 
+DEG: (none) 
+TEG: (none) 
+DPGME: (none) 
+DPG: (none) 
+Glycerol: (none) 
+
+PT specifications:
+IntelliGrid:
+on
+Grid Factor: 
+5
+Equidistant:
+Pmin: 0.001
+Pmax: 20
+Number of pressure points: 100
+Tmin: 0
+Tmax: 200
+Number of temperature points: 100
+
+Output table: Two phase
+Emulsion: No
+Extrapolation Procedure: Derivatives
+Water properties model: EoS
+
+
